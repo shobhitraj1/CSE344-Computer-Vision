@@ -12,7 +12,7 @@ The course explores visual recognition tasks (classification, segmentation, obje
 - `/Quizzes`: Contains materials related to the quizzes.
 - `/Midsem`: Contains materials related to the midterm examination.
 - `/Endsem`: Contains materials related to the endterm examination.
-- `/Project`: Coming soon.
+- `/Project`: [IIITD Gate Entry Automation](https://github.com/shobhitraj1/IIITD-Gate-Entry-Automation.git)
 
 📅 **Semester:**
 6th Semester (3rd Year)
